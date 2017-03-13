@@ -1,0 +1,11 @@
+Client Name: Russell Petrus
+Client Address: 5555 West 25th Street
+                Cleveland, Ohio 44135
+Client Email: russpetrus@gmail.com
+Client Phone Number: (216).533.2462
+
+Account Type: Reserve Account
+Account Number: 5467
+Statement Period Beginning Balance: $8000
+
+
